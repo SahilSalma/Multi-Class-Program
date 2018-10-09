@@ -1,0 +1,15 @@
+Person:Sahil:India:1998:
+Person:Sahil:India:1998:
+Person:Sahil:India:1998:
+Employee:Peter:AB:1990:572258:2008:
+Employee:Ella:NL:1991:316041:2009:
+Employee:Angel:ON:1992:574702:2010:
+Doctor:Kate:SK:1983:804215:2000:300000:Surgery:10:
+Doctor:Stovall:NB:1984:144759:2001:100000:Surgery:10:
+Doctor:Jeanette:MB:1985:759583:2002:250000:Surgery:10:
+Staff:Rea:BC:1986:781758:2000:Pediatrics:Staff:30:Part-Time:
+Staff:Tina:NL:1997:456123:2000:Pediatrics:HOD:20:Full-Time:
+Staff:Deborah:ON:1998:173525:2005:Medical:Staff:15:Full-Time:
+Patient:Marvin:QC:1999:789456:2008:ZYX:Stovall:01:
+Patient:Alcazar:YT:1989:952007:1999:XYZ:Kate:03:
+Patient:Tom:BC:1987:332173:2013:XYZ:Kate:02:
